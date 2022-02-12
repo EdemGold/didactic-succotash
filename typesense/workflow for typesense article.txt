@@ -1,0 +1,9 @@
+Workflow for typesense article
+
+intro
+What is typesense
+what does typesense do
+how does it work 
+what languages or technologies is it dependant on
+Why is it Cool
+important links

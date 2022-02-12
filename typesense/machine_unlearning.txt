@@ -1,0 +1,13 @@
+Introduction to article
+
+Explainig Machine Learning as an intro into machine unlearning
+
+What is machine unlearning
+
+why is it done
+
+How is it done
+
+Is it good
+
+Summary
